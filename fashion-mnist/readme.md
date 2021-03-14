@@ -5,7 +5,7 @@ It is a good database for people who want to try learning techniques and pattern
 [Dataset Link](https://keras.io/api/datasets/fashion_mnist/)
 
 ## Algorithms used-
-Multilayer Nueral Network(MLP)
+Multilayer Neural Network(MLP)
 
 ## Accuracy result-
 val_accuracy = 0.8840
