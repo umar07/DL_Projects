@@ -7,3 +7,5 @@ The list of projects in this repo are:
 2. Fashion category classification
 3. Face Mask Detection
 4. California Housing prediction
+5. Pneumonia Prediction
+6. Human Emotion Detection
